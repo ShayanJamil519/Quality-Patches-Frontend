@@ -9,6 +9,8 @@ Payment (backend) and help in frontend for Murtaza and arshan work: Abdullah
 
 ================================
 
+Tailwind CSS: https://tailwindcss.com/docs/
+
 
 Reference Project Help: 
 https://github.com/ShayanJamil519/Panaverse-DAO-PIAIC
